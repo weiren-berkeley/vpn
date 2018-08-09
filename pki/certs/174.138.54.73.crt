@@ -1,0 +1,60 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+    Signature Algorithm: ecdsa-with-SHA256
+        Issuer: CN=174.138.54.73
+        Validity
+            Not Before: Aug  9 02:54:53 2018 GMT
+            Not After : Aug  6 02:54:53 2028 GMT
+        Subject: CN=174.138.54.73
+        Subject Public Key Info:
+            Public Key Algorithm: id-ecPublicKey
+                Public-Key: (384 bit)
+                pub: 
+                    04:aa:dd:b3:05:38:46:4d:f5:2a:db:75:b2:e2:bf:
+                    16:89:f6:d2:11:10:73:a9:0e:ba:80:06:c6:3e:4c:
+                    5b:04:64:8a:e0:5f:53:e4:bf:8f:94:83:bc:cf:3d:
+                    74:28:8d:b0:95:e8:c0:c4:b3:09:84:0b:5e:72:98:
+                    39:46:66:b0:5c:a1:8c:4f:08:17:e0:eb:a5:96:6e:
+                    6a:7c:48:19:bb:91:b9:f8:d2:17:17:14:0a:e2:88:
+                    d4:1e:29:08:a9:6d:de
+                ASN1 OID: secp384r1
+                NIST CURVE: P-384
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                9B:5C:E2:18:46:4C:E3:A1:48:20:6D:A0:17:E6:36:D0:D6:EF:6B:AF
+            X509v3 Authority Key Identifier: 
+                keyid:3C:28:3A:E2:5C:93:A0:F5:C8:47:BD:5D:2B:B3:F4:AE:41:43:5A:72
+                DirName:/CN=174.138.54.73
+                serial:E3:1B:75:D8:28:A1:AB:D5
+
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication, 1.3.6.1.5.5.7.3.17
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+            X509v3 Subject Alternative Name: 
+                IP Address:174.138.54.73, IP Address:2604:A880:800:A1:0:0:642:E001
+    Signature Algorithm: ecdsa-with-SHA256
+         30:66:02:31:00:ef:53:a9:41:78:67:dd:98:37:ad:97:63:a2:
+         1a:ea:2e:5c:ca:0d:53:64:b9:00:d7:ab:fe:43:13:95:09:a3:
+         a2:32:f3:70:62:76:5c:37:03:94:a4:00:e4:c1:39:c3:0c:02:
+         31:00:f3:6b:67:74:f8:c2:f5:4c:b0:54:b2:4f:d6:aa:8f:e6:
+         07:b9:76:6a:85:39:eb:01:17:66:ab:3c:19:56:68:87:78:43:
+         7e:52:02:3e:1c:18:8a:a9:55:17:7c:41:cd:3e
+-----BEGIN CERTIFICATE-----
+MIICLjCCAbOgAwIBAgIBATAKBggqhkjOPQQDAjAYMRYwFAYDVQQDDA0xNzQuMTM4
+LjU0LjczMB4XDTE4MDgwOTAyNTQ1M1oXDTI4MDgwNjAyNTQ1M1owGDEWMBQGA1UE
+AwwNMTc0LjEzOC41NC43MzB2MBAGByqGSM49AgEGBSuBBAAiA2IABKrdswU4Rk31
+Ktt1suK/Fon20hEQc6kOuoAGxj5MWwRkiuBfU+S/j5SDvM89dCiNsJXowMSzCYQL
+XnKYOUZmsFyhjE8IF+DrpZZuanxIGbuRufjSFxcUCuKI1B4pCKlt3qOB0DCBzTAJ
+BgNVHRMEAjAAMB0GA1UdDgQWBBSbXOIYRkzjoUggbaAX5jbQ1u9rrzBIBgNVHSME
+QTA/gBQ8KDriXJOg9chHvV0rs/SuQUNacqEcpBowGDEWMBQGA1UEAwwNMTc0LjEz
+OC41NC43M4IJAOMbddgooavVMCcGA1UdJQQgMB4GCCsGAQUFBwMBBggrBgEFBQcD
+AgYIKwYBBQUHAxEwCwYDVR0PBAQDAgWgMCEGA1UdEQQaMBiHBK6KNkmHECYEqIAI
+AAChAAAAAAZC4AEwCgYIKoZIzj0EAwIDaQAwZgIxAO9TqUF4Z92YN62XY6Ia6i5c
+yg1TZLkA16v+QxOVCaOiMvNwYnZcNwOUpADkwTnDDAIxAPNrZ3T4wvVMsFSyT9aq
+j+YHuXZqhTnrARdmqzwZVmiHeEN+UgI+HBiKqVUXfEHNPg==
+-----END CERTIFICATE-----

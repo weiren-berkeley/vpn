@@ -1,0 +1,60 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 3 (0x3)
+    Signature Algorithm: ecdsa-with-SHA256
+        Issuer: CN=174.138.54.73
+        Validity
+            Not Before: Aug  9 02:54:53 2018 GMT
+            Not After : Aug  6 02:54:53 2028 GMT
+        Subject: CN=wei
+        Subject Public Key Info:
+            Public Key Algorithm: id-ecPublicKey
+                Public-Key: (384 bit)
+                pub: 
+                    04:3f:25:e4:fe:00:98:3f:e6:da:df:48:c7:45:f3:
+                    25:eb:5c:81:64:ac:90:c3:f1:9f:d8:82:91:81:24:
+                    2c:4f:a3:40:06:39:a6:dd:a1:92:f4:05:78:bd:cd:
+                    86:9a:52:4f:30:5f:7d:8c:d8:08:bc:f0:f6:e2:08:
+                    0f:18:90:e1:d4:91:6c:03:19:31:e9:d0:9b:56:82:
+                    9f:49:3f:a4:69:74:75:3f:08:9a:ee:e3:37:3c:b9:
+                    55:67:56:8a:b5:03:0d
+                ASN1 OID: secp384r1
+                NIST CURVE: P-384
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                AC:A7:4A:73:2B:1D:33:87:45:39:F5:9E:76:1A:90:3C:27:F8:4C:F7
+            X509v3 Authority Key Identifier: 
+                keyid:3C:28:3A:E2:5C:93:A0:F5:C8:47:BD:5D:2B:B3:F4:AE:41:43:5A:72
+                DirName:/CN=174.138.54.73
+                serial:E3:1B:75:D8:28:A1:AB:D5
+
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication, TLS Web Client Authentication, 1.3.6.1.5.5.7.3.17
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+            X509v3 Subject Alternative Name: 
+                DNS:wei
+    Signature Algorithm: ecdsa-with-SHA256
+         30:65:02:31:00:e1:c2:36:49:e9:50:5d:65:36:d5:69:4e:0b:
+         54:bb:3e:c9:4e:ea:aa:ca:46:70:76:0d:68:60:0d:6d:2b:c6:
+         4d:af:dd:0d:31:c2:89:1d:ea:a4:0a:fe:07:e5:46:8c:1d:02:
+         30:4c:7f:ed:fc:98:0a:d1:b5:1e:cc:dd:61:7e:a7:27:69:da:
+         ff:f0:6e:0d:dc:f2:ab:21:61:6f:e8:48:90:49:76:eb:e9:94:
+         72:9d:65:40:3e:ff:4d:c2:e2:10:7a:be:e7
+-----BEGIN CERTIFICATE-----
+MIICEDCCAZagAwIBAgIBAzAKBggqhkjOPQQDAjAYMRYwFAYDVQQDDA0xNzQuMTM4
+LjU0LjczMB4XDTE4MDgwOTAyNTQ1M1oXDTI4MDgwNjAyNTQ1M1owDjEMMAoGA1UE
+AwwDd2VpMHYwEAYHKoZIzj0CAQYFK4EEACIDYgAEPyXk/gCYP+ba30jHRfMl61yB
+ZKyQw/Gf2IKRgSQsT6NABjmm3aGS9AV4vc2GmlJPMF99jNgIvPD24ggPGJDh1JFs
+Axkx6dCbVoKfST+kaXR1Pwia7uM3PLlVZ1aKtQMNo4G9MIG6MAkGA1UdEwQCMAAw
+HQYDVR0OBBYEFKynSnMrHTOHRTn1nnYakDwn+Ez3MEgGA1UdIwRBMD+AFDwoOuJc
+k6D1yEe9XSuz9K5BQ1pyoRykGjAYMRYwFAYDVQQDDA0xNzQuMTM4LjU0LjczggkA
+4xt12Cihq9UwJwYDVR0lBCAwHgYIKwYBBQUHAwEGCCsGAQUFBwMCBggrBgEFBQcD
+ETALBgNVHQ8EBAMCBaAwDgYDVR0RBAcwBYIDd2VpMAoGCCqGSM49BAMCA2gAMGUC
+MQDhwjZJ6VBdZTbVaU4LVLs+yU7qqspGcHYNaGANbSvGTa/dDTHCiR3qpAr+B+VG
+jB0CMEx/7fyYCtG1HszdYX6nJ2na//BuDdzyqyFhb+hIkEl26+mUcp1lQD7/TcLi
+EHq+5w==
+-----END CERTIFICATE-----
